@@ -1,0 +1,7 @@
+This is a game developed in Python.
+By default, Python is not installed in Windows OS.
+To play the game, install Python in your computer first.
+You can also download Python from Python's original website and install it for your computer.
+After Python installation, click the "start_game.bat" file to download necessary libraries and play the game.
+Internet connection is necessary to download python libraries.
+Downloading the libraries is a one time requirement.
